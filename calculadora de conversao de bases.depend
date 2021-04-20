@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1614651952 source:c:\users\avell\desktop\univali\h on w 1\calculadora de conversao de bases\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<stdbool.h>
+
+1614651952 source:c:\users\yat0\downloads\calculadora_de_conversao_de_bases\calculadora de conversao de bases\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<stdbool.h>
+
